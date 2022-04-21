@@ -1,6 +1,6 @@
 {
   "name": "mt3",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "3×3 matrix basic utils",
   "main": "./index.ts",
   "scripts": {
@@ -14,7 +14,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mt3": "^0.0.7",
     "vite": "^2.9.5"
   }
 }
