@@ -1,0 +1,19 @@
+### include following methods
+- degToRad,
+- distance
+- dot
+- identity
+- inverse
+- multiply
+- normalize
+- projection
+- radToDeg
+- reflect
+- rotation
+- rotate
+- scaling
+- scale
+- transformPoint
+- translation
+- translate
+- project
